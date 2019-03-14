@@ -1,0 +1,2 @@
+--npm install-- //install dependency
+--npm start-- // run program 

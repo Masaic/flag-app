@@ -1,0 +1,11 @@
+.myTag {
+    border-style: solid;
+    margin-top: 10px;
+}
+
+.myCheckBox {
+    float: left;
+    transform: scale(2);
+    margin-left: 10px;
+    margin-Top: 10px;
+}
